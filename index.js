@@ -61,4 +61,3 @@ console.log(false*10);
 // *
 // /
 // %
-require("./marksheet-if-else.js");
